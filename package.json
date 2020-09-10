@@ -26,8 +26,11 @@
     "url": "https://github.com/stevemao/to-error/issues"
   },
   "homepage": "https://github.com/stevemao/to-error#readme",
-  "dependencies": {},
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1"
+  },
   "devDependencies": {
+    "@types/json-stringify-safe": "^5.0.0",
     "@types/node": "^13.7.0",
     "typescript": "^3.7.5"
   }
